@@ -1,4 +1,4 @@
-# 
+# exclusive GIMP for PC | GIMP for Windows Script | smart-objects + brush-engine is the best GIMP for PC | GIMP for Windows script, featuring smart-objects and brush-engine.
 
 
 
